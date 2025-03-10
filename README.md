@@ -70,6 +70,3 @@ Grade of 3 Subject is B
 ## Contributing
 Feel free to contribute by improving the grading logic, adding more features, or optimizing the code.
 
-## License
-This project is licensed under the MIT License.
-
