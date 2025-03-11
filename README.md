@@ -67,6 +67,4 @@ Grade of 2 Subject is C
 Grade of 3 Subject is B
 ```
 
-## Contributing
-Feel free to contribute by improving the grading logic, adding more features, or optimizing the code.
 
